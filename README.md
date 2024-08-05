@@ -2,7 +2,7 @@
 - 👀 I’m interested in making life magical with good food and embarking on latest technologies which can enhance our daily life with a bit more sparkles.
 - 🌱 I’m currently learning Data Science related tools like Python, Power BI, process like ETL, Machine Learning Algorithms.
 - 💞️ I’m looking to collaborate on real life Data related projects.
-- 📫 How to reach me at priyankakrmrkr.31@gmail.com
+- 📫 Reach me at priyankakrmrkr.31@gmail.com
 
 
 <!---
